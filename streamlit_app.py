@@ -18,7 +18,7 @@ import tempfile
 import os
 
 st.set_page_config(page_title="TradeInsight", layout="wide", initial_sidebar_state="expanded")
-st.title("📊 TradeInsight - Trading Journal")
+st.title("📊 TradeTrack - Trading Journal")
 st.write("Upload your trades CSV (reasonable headers). Click **Get Analysis** to compute performance metrics, visualizations and export a PDF report.")
 
 # ------------------------

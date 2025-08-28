@@ -1,4 +1,4 @@
-# TradeInsight - Advanced Trading Journal Application
+# TradeTrack - Advanced Trading Journal Application
 
 A comprehensive trading journal application designed to help traders track, analyze, and improve their trading performance through detailed analytics, AI-powered insights, and professional reporting.
 
