@@ -41,15 +41,18 @@ def manual_entry_ui():
     return st.session_state.get('dataset')
 
 def sidebar_credits():
-    """Renders credits and links in the sidebar."""
+    """Renders professional credits and info in the sidebar."""
     with st.sidebar:
         st.markdown("---")
-        st.markdown("### 🚀 About TradeTrack")
-        st.write("An advanced trading journal for data-driven traders.")
-        st.markdown("[Deployment Link](https://tradetrack.streamlit.app/)")
-        st.info("Tip: Use the 'Manual Entry' tab if you don't have a CSV file ready.")
+        st.markdown("### �️ System Info")
+        st.info("💡 **Tip:** Use the 'Manual Entry' tab to log trades quickly without a CSV.")
         
-        if st.button("🔄 Reset / Clear Data"):
+        st.markdown("---")
+        st.markdown("### 🚀 TradeTrack")
+        st.caption("Advanced Trading Journal & Analytics")
+        st.markdown("Created with ❤️ for data-driven traders.")
+        
+        if st.button("🔄 Reset / Clear Data", use_container_width=True, type="secondary"):
             for key in list(st.session_state.keys()):
                 del st.session_state[key]
             st.rerun()

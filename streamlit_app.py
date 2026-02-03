@@ -22,8 +22,12 @@ st.set_page_config(page_title="TradeTrack", layout="wide", initial_sidebar_state
 sidebar_credits()
 
 # Header
-st.title("📊 TradeTrack - Trading Journal")
-st.write("Track, analyze, and improve your trading performance.")
+st.title("📊 TradeTrack: Advanced Journal")
+st.markdown("""
+Welcome to **TradeTrack**, your professional grade trading journal. 
+Analyze your edge, track your emotions, and export comprehensive reports to level up your trading.
+""")
+st.write("---")
 
 # Input Selection
 tab1, tab2 = st.tabs(["📂 Upload CSV", "✍️ Manual Entry"])
