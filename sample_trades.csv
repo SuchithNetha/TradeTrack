@@ -1,0 +1,121 @@
+id,date,market,direction,entry,stop_loss,take_profit,exit_price,quantity,pnl,notes
+1,2025-02-05 23:47:57.577738,Nifty 50,Buy,18195.75,18013.79,18559.66,18013.79,1.0,-181.96,Stop loss hit. Market reversed.
+2,2025-02-07 23:47:57.577738,BankNifty,Buy,17778.45,17600.66,18430.1,18430.1,1.0,651.66,Target hit. Followed setup.
+3,2025-02-11 23:47:57.577738,Tesla,Buy,148.26,146.77,151.61,151.61,1.0,3.35,Target hit. Followed setup.
+4,2025-02-13 23:47:57.577738,Apple,Sell,148.42,149.91,144.25,144.25,1.0,4.17,Target hit. Followed setup.
+5,2025-02-17 23:47:57.577738,Ethereum,Sell,147.28,148.75,144.33,148.75,1.0,-1.47,Stop loss hit. Market reversed.
+6,2025-02-20 23:47:57.577738,Tesla,Buy,145.76,144.31,151.53,151.53,1.0,5.77,Target hit. Followed setup.
+7,2025-02-21 23:47:57.577738,BankNifty,Buy,17585.64,17409.79,18266.6,18266.6,1.0,680.95,Target hit. Followed setup.
+8,2025-02-25 23:47:57.577738,Ethereum,Sell,151.13,152.64,148.49,148.49,1.0,2.64,Target hit. Followed setup.
+9,2025-03-01 23:47:57.577738,Nifty 50,Buy,18406.88,18222.81,18862.94,18862.94,1.0,456.06,Target hit. Followed setup.
+10,2025-03-03 23:47:57.577738,EUR/USD,Sell,151.12,152.63,146.89,146.89,1.0,4.23,Target hit. Followed setup.
+11,2025-03-06 23:47:57.577738,Nifty 50,Sell,17215.8,17387.96,16871.48,17387.96,1.0,-172.16,Stop loss hit. Market reversed.
+12,2025-03-10 23:47:57.577738,EUR/USD,Buy,146.87,145.4,149.79,149.79,1.0,2.92,Target hit. Followed setup.
+13,2025-03-11 23:47:57.577738,Tesla,Sell,151.42,152.93,148.39,152.93,1.0,-1.51,Stop loss hit. Market reversed.
+14,2025-03-15 23:47:57.577738,Bitcoin,Sell,40527.35,40932.63,39716.81,40932.63,1.0,-405.27,Stop loss hit. Market reversed.
+15,2025-03-17 23:47:57.577738,Bitcoin,Buy,40465.7,40061.04,41275.01,40061.04,1.0,-404.66,Stop loss hit. Market reversed.
+16,2025-03-20 23:47:57.577738,BankNifty,Buy,18319.59,18136.39,18685.98,18136.39,1.0,-183.2,Stop loss hit. Market reversed.
+17,2025-03-24 23:47:57.577738,Bitcoin,Sell,40265.01,40667.66,39597.06,39597.06,1.0,667.95,Target hit. Followed setup.
+18,2025-03-28 23:47:57.577738,Tesla,Sell,152.93,154.46,149.87,154.46,1.0,-1.53,Stop loss hit. Market reversed.
+19,2025-03-30 23:47:57.577738,BankNifty,Buy,17626.38,17450.12,17978.91,17450.12,1.0,-176.26,Stop loss hit. Market reversed.
+20,2025-04-01 23:47:57.577738,Apple,Sell,149.77,151.27,146.57,146.57,1.0,3.21,Target hit. Followed setup.
+21,2025-04-06 23:47:57.577738,Bitcoin,Buy,39681.09,39284.28,40307.48,40307.48,1.0,626.39,Target hit. Followed setup.
+22,2025-04-09 23:47:57.577738,Bitcoin,Sell,39951.31,40350.82,39152.28,40350.82,1.0,-399.51,Stop loss hit. Market reversed.
+23,2025-04-11 23:47:57.577738,Apple,Buy,152.62,151.09,158.5,158.5,1.0,5.89,Target hit. Followed setup.
+24,2025-04-15 23:47:57.577738,BankNifty,Buy,18823.4,18635.17,19543.25,19543.25,1.0,719.85,Target hit. Followed setup.
+25,2025-04-16 23:47:57.577738,Tesla,Buy,149.68,148.19,153.49,153.49,1.0,3.8,Target hit. Followed setup.
+26,2025-04-20 23:47:57.577738,BankNifty,Sell,17656.08,17832.64,17302.95,17832.64,1.0,-176.56,Stop loss hit. Market reversed.
+27,2025-04-22 23:47:57.577738,Gold,Sell,1989.73,2009.63,1919.2,1919.2,1.0,70.54,Target hit. Followed setup.
+28,2025-04-25 23:47:57.577738,BankNifty,Buy,17867.58,17688.91,18374.17,18374.17,1.0,506.59,Target hit. Followed setup.
+29,2025-04-29 23:47:57.577738,Apple,Buy,148.97,147.48,151.95,147.48,1.0,-1.49,Stop loss hit. Market reversed.
+30,2025-05-02 23:47:57.577738,EUR/USD,Sell,147.59,149.07,144.64,149.07,1.0,-1.48,Stop loss hit. Market reversed.
+31,2025-05-04 23:47:57.577738,Tesla,Buy,147.46,145.99,150.41,145.99,1.0,-1.47,Stop loss hit. Market reversed.
+32,2025-05-09 23:47:57.577738,Bitcoin,Buy,39342.01,38948.59,39968.42,39968.42,1.0,626.41,Target hit. Followed setup.
+33,2025-05-10 23:47:57.577738,Ethereum,Sell,148.67,150.16,144.09,144.09,1.0,4.59,Target hit. Followed setup.
+34,2025-05-14 23:47:57.577738,Ethereum,Buy,149.75,148.25,152.74,148.25,1.0,-1.5,Stop loss hit. Market reversed.
+35,2025-05-17 23:47:57.577738,EUR/USD,Buy,153.43,151.89,158.52,158.52,1.0,5.09,Target hit. Followed setup.
+36,2025-05-19 23:47:57.577738,Nifty 50,Sell,18270.7,18453.4,17905.28,18453.4,1.0,-182.71,Stop loss hit. Market reversed.
+37,2025-05-24 23:47:57.577738,Gold,Sell,1982.29,2002.11,1942.64,2002.11,1.0,-19.82,Stop loss hit. Market reversed.
+38,2025-05-25 23:47:57.577738,BankNifty,Sell,18136.16,18317.52,17764.26,17764.26,1.0,371.9,Target hit. Followed setup.
+39,2025-05-29 23:47:57.577738,BankNifty,Buy,18233.67,18051.33,18822.13,18822.13,1.0,588.46,Target hit. Followed setup.
+40,2025-06-02 23:47:57.577738,Ethereum,Sell,146.33,147.79,142.89,142.89,1.0,3.44,Target hit. Followed setup.
+41,2025-06-03 23:47:57.577738,Ethereum,Buy,155.62,154.06,158.63,158.63,1.0,3.01,Target hit. Followed setup.
+42,2025-06-06 23:47:57.577738,Nifty 50,Sell,18142.69,18324.12,17418.69,17418.69,1.0,724.01,Target hit. Followed setup.
+43,2025-06-10 23:47:57.577738,Nifty 50,Buy,18093.56,17912.62,18522.92,18522.92,1.0,429.36,Target hit. Followed setup.
+44,2025-06-14 23:47:57.577738,Nifty 50,Sell,18281.46,18464.27,17601.49,17601.49,1.0,679.97,Target hit. Followed setup.
+45,2025-06-17 23:47:57.577738,Bitcoin,Sell,40522.44,40927.66,39711.99,40927.66,1.0,-405.22,Stop loss hit. Market reversed.
+46,2025-06-19 23:47:57.577738,Bitcoin,Buy,40882.15,40473.33,41699.79,40473.33,1.0,-408.82,Stop loss hit. Market reversed.
+47,2025-06-22 23:47:57.577738,EUR/USD,Sell,155.6,157.15,152.49,157.15,1.0,-1.56,Stop loss hit. Market reversed.
+48,2025-06-24 23:47:57.577738,Nifty 50,Buy,18170.58,17988.87,18667.5,18667.5,1.0,496.92,Target hit. Followed setup.
+49,2025-06-29 23:47:57.577738,BankNifty,Buy,18150.52,17969.02,18513.53,17969.02,1.0,-181.51,Stop loss hit. Market reversed.
+50,2025-07-01 23:47:57.577738,Gold,Sell,1924.54,1943.78,1848.86,1848.86,1.0,75.68,Target hit. Followed setup.
+51,2025-07-03 23:47:57.577738,BankNifty,Sell,17949.28,18128.77,17390.56,17390.56,1.0,558.72,Target hit. Followed setup.
+52,2025-07-08 23:47:57.577738,EUR/USD,Buy,152.62,151.09,157.66,157.66,1.0,5.05,Target hit. Followed setup.
+53,2025-07-11 23:47:57.577738,Nifty 50,Buy,17995.83,17815.87,18663.25,18663.25,1.0,667.42,Target hit. Followed setup.
+54,2025-07-12 23:47:57.577738,Apple,Sell,150.57,152.08,146.23,146.23,1.0,4.34,Target hit. Followed setup.
+55,2025-07-17 23:47:57.577738,BankNifty,Sell,17837.11,18015.48,17190.01,17190.01,1.0,647.1,Target hit. Followed setup.
+56,2025-07-20 23:47:57.577738,EUR/USD,Sell,152.33,153.85,149.28,153.85,1.0,-1.52,Stop loss hit. Market reversed.
+57,2025-07-23 23:47:57.577738,Tesla,Sell,151.91,153.42,148.66,148.66,1.0,3.24,Target hit. Followed setup.
+58,2025-07-25 23:47:57.577738,Ethereum,Sell,146.76,148.23,143.82,148.23,1.0,-1.47,Stop loss hit. Market reversed.
+59,2025-07-27 23:47:57.577738,Bitcoin,Buy,40359.82,39956.22,41388.77,41388.77,1.0,1028.95,Target hit. Followed setup.
+60,2025-07-31 23:47:57.577738,Bitcoin,Sell,41423.14,41837.37,40594.68,41837.37,1.0,-414.23,Stop loss hit. Market reversed.
+61,2025-08-03 23:47:57.577738,Gold,Buy,1952.67,1933.14,2001.33,2001.33,1.0,48.66,Target hit. Followed setup.
+62,2025-08-06 23:47:57.577738,Nifty 50,Buy,18178.2,17996.42,18621.56,18621.56,1.0,443.36,Target hit. Followed setup.
+63,2025-08-09 23:47:57.577738,EUR/USD,Buy,146.4,144.94,152.19,152.19,1.0,5.79,Target hit. Followed setup.
+64,2025-08-12 23:47:57.577738,Ethereum,Sell,153.6,155.14,151.16,151.16,1.0,2.45,Target hit. Followed setup.
+65,2025-08-15 23:47:57.577738,Gold,Sell,1920.34,1939.54,1881.93,1939.54,1.0,-19.2,Stop loss hit. Market reversed.
+66,2025-08-17 23:47:57.577738,Gold,Sell,2017.04,2037.21,1976.7,2037.21,1.0,-20.17,Stop loss hit. Market reversed.
+67,2025-08-21 23:47:57.577738,Gold,Buy,2054.54,2033.99,2095.63,2033.99,1.0,-20.55,Stop loss hit. Market reversed.
+68,2025-08-24 23:47:57.577738,Tesla,Buy,152.49,150.96,155.54,150.96,1.0,-1.52,Stop loss hit. Market reversed.
+69,2025-08-28 23:47:57.577738,BankNifty,Sell,17691.28,17868.2,17390.14,17390.14,1.0,301.14,Target hit. Followed setup.
+70,2025-08-31 23:47:57.577738,Bitcoin,Sell,40672.0,41078.72,39885.72,39885.72,1.0,786.29,Target hit. Followed setup.
+71,2025-09-01 23:47:57.577738,Gold,Sell,1987.23,2007.1,1910.99,1910.99,1.0,76.24,Target hit. Followed setup.
+72,2025-09-04 23:47:57.577738,EUR/USD,Buy,149.39,147.89,152.37,147.89,1.0,-1.49,Stop loss hit. Market reversed.
+73,2025-09-09 23:47:57.577738,Apple,Sell,146.45,147.91,143.0,143.0,1.0,3.45,Target hit. Followed setup.
+74,2025-09-10 23:47:57.577738,Gold,Buy,2009.16,1989.07,2088.5,2088.5,1.0,79.34,Target hit. Followed setup.
+75,2025-09-13 23:47:57.577738,Nifty 50,Sell,17993.0,18172.93,17633.14,18172.93,1.0,-179.93,Stop loss hit. Market reversed.
+76,2025-09-16 23:47:57.577738,Tesla,Sell,147.2,148.67,144.26,148.67,1.0,-1.47,Stop loss hit. Market reversed.
+77,2025-09-20 23:47:57.577738,Ethereum,Sell,148.68,150.17,144.12,144.12,1.0,4.56,Target hit. Followed setup.
+78,2025-09-23 23:47:57.577738,EUR/USD,Buy,150.39,148.89,153.4,148.89,1.0,-1.5,Stop loss hit. Market reversed.
+79,2025-09-25 23:47:57.577738,Nifty 50,Sell,18071.66,18252.38,17535.94,17535.94,1.0,535.72,Target hit. Followed setup.
+80,2025-09-30 23:47:57.577738,Nifty 50,Sell,17783.92,17961.76,17428.24,17961.76,1.0,-177.84,Stop loss hit. Market reversed.
+81,2025-10-03 23:47:57.577738,Nifty 50,Buy,18767.89,18580.21,19143.25,18580.21,1.0,-187.68,Stop loss hit. Market reversed.
+82,2025-10-06 23:47:57.577738,Bitcoin,Buy,38438.33,38053.95,39207.1,38053.95,1.0,-384.38,Stop loss hit. Market reversed.
+83,2025-10-09 23:47:57.577738,Nifty 50,Buy,17824.88,17646.64,18468.75,18468.75,1.0,643.87,Target hit. Followed setup.
+84,2025-10-11 23:47:57.577738,Tesla,Sell,150.62,152.13,146.5,146.5,1.0,4.13,Target hit. Followed setup.
+85,2025-10-14 23:47:57.577738,Apple,Sell,152.7,154.23,149.64,154.23,1.0,-1.53,Stop loss hit. Market reversed.
+86,2025-10-16 23:47:57.577738,Apple,Buy,150.92,149.41,153.94,149.41,1.0,-1.51,Stop loss hit. Market reversed.
+87,2025-10-19 23:47:57.577738,Bitcoin,Sell,38569.86,38955.56,37798.47,38955.56,1.0,-385.7,Stop loss hit. Market reversed.
+88,2025-10-24 23:47:57.577738,Tesla,Sell,146.34,147.8,143.41,147.8,1.0,-1.46,Stop loss hit. Market reversed.
+89,2025-10-25 23:47:57.577738,Gold,Buy,1965.5,1945.84,2021.23,2021.23,1.0,55.74,Target hit. Followed setup.
+90,2025-10-28 23:47:57.577738,Tesla,Buy,152.37,150.85,155.42,150.85,1.0,-1.52,Stop loss hit. Market reversed.
+91,2025-10-31 23:47:57.577738,Nifty 50,Sell,18141.14,18322.55,17778.31,18322.55,1.0,-181.41,Stop loss hit. Market reversed.
+92,2025-11-05 23:47:57.577738,Ethereum,Buy,149.63,148.13,152.21,152.21,1.0,2.59,Target hit. Followed setup.
+93,2025-11-06 23:47:57.577738,Nifty 50,Buy,17876.67,17697.9,18234.2,17697.9,1.0,-178.77,Stop loss hit. Market reversed.
+94,2025-11-10 23:47:57.577738,Gold,Sell,2009.97,2030.07,1969.77,2030.07,1.0,-20.1,Stop loss hit. Market reversed.
+95,2025-11-12 23:47:57.577738,BankNifty,Buy,18652.92,18466.39,19025.98,18466.39,1.0,-186.53,Stop loss hit. Market reversed.
+96,2025-11-15 23:47:57.577738,Ethereum,Sell,151.21,152.73,148.19,152.73,1.0,-1.51,Stop loss hit. Market reversed.
+97,2025-11-18 23:47:57.577738,Tesla,Buy,145.68,144.22,151.12,151.12,1.0,5.43,Target hit. Followed setup.
+98,2025-11-22 23:47:57.577738,Apple,Buy,148.85,147.36,154.75,154.75,1.0,5.9,Target hit. Followed setup.
+99,2025-11-24 23:47:57.577738,Bitcoin,Sell,39425.24,39819.5,38636.74,39819.5,1.0,-394.25,Stop loss hit. Market reversed.
+100,2025-11-28 23:47:57.577738,Gold,Buy,1991.46,1971.55,2037.78,2037.78,1.0,46.31,Target hit. Followed setup.
+101,2025-12-01 23:47:57.577738,BankNifty,Buy,17993.34,17813.4,18316.68,18316.68,1.0,323.35,Target hit. Followed setup.
+102,2025-12-03 23:47:57.577738,Gold,Buy,1988.45,1968.57,2028.22,1968.57,1.0,-19.88,Stop loss hit. Market reversed.
+103,2025-12-08 23:47:57.577738,Apple,Sell,149.67,151.17,144.18,144.18,1.0,5.5,Target hit. Followed setup.
+104,2025-12-10 23:47:57.577738,Apple,Sell,151.21,152.72,148.18,152.72,1.0,-1.51,Stop loss hit. Market reversed.
+105,2025-12-12 23:47:57.577738,EUR/USD,Buy,150.67,149.17,155.02,155.02,1.0,4.35,Target hit. Followed setup.
+106,2025-12-15 23:47:57.577738,Ethereum,Buy,150.04,148.54,153.04,148.54,1.0,-1.5,Stop loss hit. Market reversed.
+107,2025-12-19 23:47:57.577738,Gold,Buy,2057.47,2036.9,2098.62,2036.9,1.0,-20.57,Stop loss hit. Market reversed.
+108,2025-12-22 23:47:57.577738,EUR/USD,Sell,147.89,149.37,144.94,149.37,1.0,-1.48,Stop loss hit. Market reversed.
+109,2025-12-24 23:47:57.577738,EUR/USD,Sell,149.53,151.02,145.1,145.1,1.0,4.42,Target hit. Followed setup.
+110,2025-12-27 23:47:57.577738,Bitcoin,Sell,38915.95,39305.11,38137.63,39305.11,1.0,-389.16,Stop loss hit. Market reversed.
+111,2025-12-31 23:47:57.577738,Gold,Buy,1974.19,1954.45,2013.67,1954.45,1.0,-19.74,Stop loss hit. Market reversed.
+112,2026-01-02 23:47:57.577738,Apple,Sell,145.2,146.65,139.61,139.61,1.0,5.59,Target hit. Followed setup.
+113,2026-01-07 23:47:57.577738,EUR/USD,Buy,146.04,144.58,148.96,144.58,1.0,-1.46,Stop loss hit. Market reversed.
+114,2026-01-09 23:47:57.577738,BankNifty,Buy,18659.33,18472.73,19131.06,19131.06,1.0,471.73,Target hit. Followed setup.
+115,2026-01-12 23:47:57.577738,Bitcoin,Sell,38629.49,39015.79,37856.9,39015.79,1.0,-386.29,Stop loss hit. Market reversed.
+116,2026-01-16 23:47:57.577738,Bitcoin,Buy,41083.1,40672.27,41737.16,41737.16,1.0,654.07,Target hit. Followed setup.
+117,2026-01-19 23:47:57.577738,Bitcoin,Buy,40004.19,39604.15,40804.28,39604.15,1.0,-400.04,Stop loss hit. Market reversed.
+118,2026-01-20 23:47:57.577738,Ethereum,Sell,150.14,151.64,146.98,146.98,1.0,3.16,Target hit. Followed setup.
+119,2026-01-23 23:47:57.577738,Tesla,Buy,150.36,148.86,155.14,155.14,1.0,4.78,Target hit. Followed setup.
+120,2026-01-27 23:47:57.577738,Nifty 50,Buy,18185.2,18003.35,18763.29,18763.29,1.0,578.1,Target hit. Followed setup.

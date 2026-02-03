@@ -27,14 +27,24 @@ A comprehensive trading journal application designed to help traders track, anal
 - **Charts & Visualizations**: Interactive charts for performance analysis
 - **Mobile-Friendly**: Responsive design for all devices
 
+## 🧪 Quick Test with Sample Data
+
+We've included a **sample dataset** with 120 realistic trades to help you test the application immediately:
+
+1. **Using the sample CSV**: Upload `sample_trades.csv` to the app
+2. **Generate your own sample data**:
+   ```bash
+   python scripts/seed_db.py
+   ```
+   This creates a `trades.db` SQLite database and exports it to `sample_trades.csv`.
+
 ## 📋 Requirements
 
 - Python 3.8+
-- FastAPI
-- pandas, numpy, matplotlib
+- Streamlit
+- pandas, numpy, matplotlib, plotly
 - reportlab (for PDF generation)
-- python-jose (for JWT)
-- passlib (for password hashing)
+- chardet (for encoding detection)
 
 ## 🛠️ Installation
 
