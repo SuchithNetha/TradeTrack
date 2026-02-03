@@ -1,5 +1,7 @@
 # TradeTrack - Advanced Trading Journal Application
 
+**Deployed URL:** [https://tradetrack.streamlit.app/](https://tradetrack.streamlit.app/)
+
 A comprehensive trading journal application designed to help traders track, analyze, and improve their trading performance through detailed analytics, AI-powered insights, and professional reporting.
 
 ## 🚀 Features
